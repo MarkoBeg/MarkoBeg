@@ -32,10 +32,15 @@ and of course YouTube, stackoverflow.
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/
-color/48/000000/css3.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started"><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/></a>
+<a href="https://www.figma.com/?fuid="><img src="https://img.icons8.com/fluent/48/000000/figma.png"/></a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/officel/48/000000/react.png"/></a>
+<a href='https://firebase.google.com/'><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+<a href="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<hr>
+
 
 <hr>
 
