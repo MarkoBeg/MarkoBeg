@@ -6,11 +6,11 @@
 <hr>
 - <h2>👋 Hi there, I’m Marko</h2>
 - 👀 I’m interested in <b>WebDesign and Networking</b>...
-- 🌱 I’m currently learning HTML CSS Bootstrap JavaScript, I am learning as much as I can about WebDesign and about Networking...
+- 🌱 I’m currently learning React.js, I am learning as much as I can about WebDesign and about Networking...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me<h5>markobeg15@gmail.com</h5>
+- 📫 How to reach me<h5>markobegdev@gmail.com</h5>
 
-My website take a look into it: https://webmarco.com.hr/
+My website take a look into it: 
 
 ## Languages and Tools:
 
@@ -46,7 +46,7 @@ and of course YouTube, stackoverflow.
 
 <h3>Connect with me:</h3>
 <p align="left">
-<a href="mailto:markobeg15@gmail.com" ><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="mailto:markobegdev@gmail.com" ><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <!---
 MarkoPolo125/MarkoPolo125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
